@@ -1,7 +1,7 @@
-Device Tree for Motorola One Vision (Troika)
+Device Tree for Motorola One Vision (kane)
 ===========================================
 
-The Motorola One Vision (codenamed _"troika"_) is a mid-range smartphone from Motorola mobility.
+The Motorola One Vision (codenamed _"kane"_) is a mid-range smartphone from Motorola mobility.
 It was announced on May 2019.
 
 Basic   | Spec Sheet
